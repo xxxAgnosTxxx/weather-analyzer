@@ -38,7 +38,7 @@ public class WeatherService {
             .toList();
     }
 
-    public List<String> getDangerous() {
+    public List<String> getWeatherFacts() {
         return dataReader.getValues(CellType.NAME.getNumber());
     }
 
