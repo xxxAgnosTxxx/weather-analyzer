@@ -1,4 +1,4 @@
-package com.prokhorovgm.weather_analyzer.service;
+package com.prokhorovgm.weather.analyzer.service;
 
 import org.apache.poi.ss.usermodel.*;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;

@@ -1,4 +1,4 @@
-package com.prokhorovgm.weather_analyzer;
+package com.prokhorovgm.weather.analyzer;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

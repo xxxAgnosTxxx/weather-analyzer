@@ -1,4 +1,4 @@
-package com.prokhorovgm.weather_analyzer;
+package com.prokhorovgm.weather.analyzer;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

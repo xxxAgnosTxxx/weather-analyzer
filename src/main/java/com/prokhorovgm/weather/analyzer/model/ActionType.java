@@ -1,4 +1,4 @@
-package com.prokhorovgm.weather_analyzer.model;
+package com.prokhorovgm.weather.analyzer.model;
 
 import lombok.AccessLevel;
 import lombok.AllArgsConstructor;
